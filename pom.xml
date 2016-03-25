@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zorroa.shotgun</groupId>
-    <artifactId>Shotgun-java</artifactId>
+    <artifactId>shotgun-client</artifactId>
     <version>0.1-SNAPSHOT</version>
 
     <properties>
